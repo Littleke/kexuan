@@ -1,5 +1,6 @@
 [## 学术简历](https://github.com/Littleke/kexuan/edit/gh-pages/index.md) | [## 课题组概况](https://jekyllrb.com/)
-## 个人简介
+## Welcome to GitHub Pages
+### 个人简介
 
 柯璇，男，汉族，1989年3月生，黑龙江省大庆市人，中共党员，博士（后）/副教授。
 
@@ -53,7 +54,7 @@
 ### 招生方向
 1. 硕士研究生(学硕)：“地质资源与地质工程”、“固体地球物理学”、“地球探测与信息技术”.
 2. 硕士研究生(专硕)：“地质工程”.
-## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/Littleke/kexuan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
