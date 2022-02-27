@@ -1,4 +1,4 @@
-[##学术简历](https://github.com/Littleke/kexuan/edit/gh-pages/index.md) | [##课题组概况](https://jekyllrb.com/)
+[## 学术简历](https://github.com/Littleke/kexuan/edit/gh-pages/index.md) | [## 课题组概况](https://jekyllrb.com/)
 
 ## Welcome to GitHub Pages
 
